@@ -51,13 +51,13 @@ To uncover global trends in food waste and assess their financial implications a
 ---
 
 ## 📁 Project Structure
-- *01 Project Management
-- *02 Data
+- # 01 Project Management
+- # 02 Data
   - Original Data
   - Prepared Data
-- *03 Scripts
-- *04 Analysis
+- # 03 Scripts
+- # 04 Analysis
   - Reports
   - Test Files
   - Visualizations
-- *05 Sent to Client
+- # 05 Sent to Client
