@@ -84,13 +84,13 @@ To uncover global trends in food waste and assess their financial implications a
 ---
 
 ## 📎 Data Sources
-- https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024/data    (Project Data Set
-- https://www.kaggle.com/datasets/ktochylin/world-countries    (JSON)
+👉 [Project Data Set](https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024/data)
+👉 [World Countries JSON](https://www.kaggle.com/datasets/ktochylin/world-countries)
 
 ---
 
 ## 💻 Links
-- Tableau Story
+👉 Tableau Story
 
 
 
