@@ -50,6 +50,25 @@ To uncover global trends in food waste and assess their financial implications a
 
 ---
 
+## 📌 Key Insights
+
+- Strong linear relationship between **Total Waste** and **Economic Loss**
+- **Dairy** and **Prepared Foods** are high-waste categories
+- Clustering revealed most impactful countries cluster below 150K in waste/loss
+- Time series data suggests stationary trends, suitable for forecasting
+- No consistent link between population size and waste volume
+
+---
+
+## 📈 Recommendations
+
+- Focus reduction efforts on high-impact food categories and mid-range waste clusters  
+- Improve data coverage in underreported countries to reduce bias  
+- Use predictive modeling for future economic loss forecasting  
+- Explore policy and behavior-based factors to reduce waste at scale
+
+---
+
 ## 📁 Project Structure
 - ### 01 Project Management
 - ### 02 Data
@@ -64,8 +83,13 @@ To uncover global trends in food waste and assess their financial implications a
 
 ---
 
-##  Links
-- https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024/data
+## 📎 Data Sources
+- https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024/data    (Project Data Set
+- https://www.kaggle.com/datasets/ktochylin/world-countries    (JSON)
+
+---
+
+## 💻 Links
 - Tableau Story
 
 
