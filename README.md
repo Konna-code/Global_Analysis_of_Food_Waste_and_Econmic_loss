@@ -61,3 +61,12 @@ To uncover global trends in food waste and assess their financial implications a
   - Test Files
   - Visualizations
 - ### 05 Sent to Client
+
+---
+
+##  Links
+- https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024/data
+- Tableau Story
+
+
+
