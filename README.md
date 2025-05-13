@@ -90,7 +90,7 @@ To uncover global trends in food waste and assess their financial implications a
 ---
 
 ## 💻 Links
-👉 Tableau Story
+👉 [Tableau Story Board](https://public.tableau.com/views/Book3_17470744701200/PresentationBoard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
